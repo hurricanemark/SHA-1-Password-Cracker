@@ -1,6 +1,6 @@
 # SHA-1 Password Cracker
 
-**Before we get it to this, I just have one question:  Why do most application allow user to commit their password creation while the password strength indicator showing 'weak'?
+**Before we get into this, I just have one question:  Why do most applications allow the user to commit their password creation while the password strength indicator showing 'weak'?
 This to me seems to defeat the purpose of putting in large efforts to strengthen security.**
 
 Okay.  Let's !
