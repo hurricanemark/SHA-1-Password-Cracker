@@ -1,11 +1,9 @@
 # SHA-1 Password Cracker
 
-Instructions for building your project can be found at 
+hashlibe.sha1 and hashlib.md5 are inherently weak.  In fact, hackers has compiled lists of frequently guessed passwords called the Rainbow Tables.  One can convert each of these passwords into hash.sha1 and use it to compare with the hash objects stored in password database.  Often with surprisingly high match rate.
 
 
-
-
-## Approach
+## How to hack a passord
 
 A note about SHA-1, MD-5.  They are not encryption algorithms!  Rather, they are hashing functions which is one-way ticket simply impossible to revert.
 
