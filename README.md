@@ -18,7 +18,7 @@ To authenticate, the user will supply an original object {password, file, image,
 
 ## Replit output
 
-This solution can be mapped to Replit for demo.
+This solution can be mapped to Replit for demoing.
 [freecodecamp -- Information Security Projects](https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker)
 
 
