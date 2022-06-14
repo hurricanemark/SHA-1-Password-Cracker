@@ -1,6 +1,6 @@
 # SHA-1 Password Cracker
 
-hashlib.sha1 and hashlib.md5 are inherently weak.  In fact, hackers have compiled several lists of frequently guessed passwords called the (Rainbow Tables)[http://project-rainbowcrack.com/table.htm].  One can convert each of these passwords into hash.sha1 and use it to compare with the hash objects stored in password database.  Often with surprisingly high match rate.
+hashlib.sha1 and hashlib.md5 are inherently weak.  In fact, hackers have compiled several lists of frequently guessed passwords called the [Rainbow Tables](http://project-rainbowcrack.com/table.htm).  One can convert each of these passwords into hash.sha1 and use it to compare with the hash objects stored in password database.  Often with surprisingly high match rate.
 
 
 ## How to hack a passord
@@ -14,7 +14,7 @@ To authenticate, the user will supply an original object {password, file, image,
 ## Replit output
 
 This solution can be mapped to Replit for demo.
-(freecodecamp -- Information Security Projects)[https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker]
+[freecodecamp -- Information Security Projects](https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker)
 
 
 Below is the runtime output from Replit.
