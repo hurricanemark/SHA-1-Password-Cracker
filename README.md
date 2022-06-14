@@ -1,20 +1,9 @@
 # SHA-1 Password Cracker
 
-Instructions for building your project can be found at (freecodecamp -- Information Security Projects)[https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker]
+Instructions for building your project can be found at 
 
 
-## Repository 
 
-```
-create a new repository on the command line
-echo "# SHA-1-Password-Cracker" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hurricanemark/SHA-1-Password-Cracker.git
-git push -u origin main
-```
 
 ## Approach
 
@@ -26,4 +15,26 @@ To authenticate, the user will supply an original object {password, file, image,
 
 ## Replit output
 
+This solution can be mapped to Replit for demo.
+(freecodecamp -- Information Security Projects)[https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker]
+
+
+Below is the runtime output from Replit.
+
+
 ![on replit](./ReplitOutput.PNG)
+
+## Repository 
+
+I just keep the command lines here for my own interest.  Don't mind me.
+
+```
+create a new repository on the command line
+echo "# SHA-1-Password-Cracker" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hurricanemark/SHA-1-Password-Cracker.git
+git push -u origin main
+```
