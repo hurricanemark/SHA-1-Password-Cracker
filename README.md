@@ -1,5 +1,10 @@
 # SHA-1 Password Cracker
 
+**Before we get it to this, I just have one question:  Why do most application allow user to commit their password creation while the password strength indicator showing 'weak'?
+This to me seems to defeat the purpose of putting in large efforts to strengthen security.**
+
+Okay.  Let's !
+
 hashlib.sha1 and hashlib.md5 are inherently weak.  In fact, hackers have compiled several lists of frequently guessed passwords called the [Rainbow Tables](http://project-rainbowcrack.com/table.htm).  One can convert each of these passwords into hash.sha1 and use it to compare with the hash objects stored in password database.  Often with surprisingly high match rate.
 
 
