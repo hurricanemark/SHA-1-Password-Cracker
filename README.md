@@ -8,7 +8,7 @@ Okay.  Let's !
 hashlib.sha1 and hashlib.md5 are inherently weak.  In fact, hackers have compiled several lists of frequently guessed passwords called the [Rainbow Tables](http://project-rainbowcrack.com/table.htm).  One can convert each of these passwords into hash.sha1 and use it to compare with the hash objects stored in password database.  Often with surprisingly high match rate.
 
 
-## How to hack a passord
+## How to hack a password
 
 A note about SHA-1, MD-5.  They are not encryption algorithms!  Rather, they are hashing functions which is one-way ticket simply impossible to revert.
 
